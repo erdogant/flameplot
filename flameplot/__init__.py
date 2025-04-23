@@ -2,7 +2,7 @@ import KNRscore as flameplot
 
 __author__ = 'Erdogan Tasksen'
 __email__ = 'erdogant@gmail.com'
-__version__ = '0.2.0'
+__version__ = '1.1.1'
 
 
 # module level doc-string
